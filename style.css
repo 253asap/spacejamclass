@@ -36,7 +36,11 @@ body {
   height: 100vh;
 }
 
-/* .narrow {
+#tickets {
+  background-color: rgb(32, 32, 32);
+}
+
+.narrow {
   width: 75%;
   margin: 0 auto;
   padding-top: 2rem;
@@ -64,7 +68,7 @@ body {
   border-color: #189582;
   background-color: #189582;
   color: white;
-} */
+}
 
 /*============ BOOTSTRAP BREAK POINTS:
 
