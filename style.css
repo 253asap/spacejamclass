@@ -40,6 +40,14 @@ body {
   background-color: rgb(32, 32, 32);
 }
 
+#merch .jumbotron {
+  background-color: rgb(64, 64, 64);
+}
+
+#contact {
+  background-color: rgb(32, 32, 32);
+}
+
 .narrow {
   width: 75%;
   margin: 0 auto;
