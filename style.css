@@ -6,6 +6,13 @@ body {
   color: white;
 }
 
+.offset::before {
+  height: 3.8rem;
+  margin-top: -3.8rem;
+  content: "";
+  display: block;
+}
+
 .navbar {
   text-transform: uppercase;
   font-weight: 700;
